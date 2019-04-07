@@ -69,3 +69,11 @@ main > .tagline {
 	width: 2.65rem;
 	height: 2.65rem;
 }
+
+.black {
+	color: black;
+}
+
+.orange {
+	color: #FC6D27
+}
